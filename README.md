@@ -1,6 +1,6 @@
-# Move a company's agent work onto an open-source AI Operating System
+# Move a company's agent work onto an open-source CompanyOS
 
-Kortix is open source, and the line it ships under is **the open-source AI Operating System**. This repository covers the move from Claude Cowork or ChatGPT Work: what comes across, what has to be rebuilt, and the checks that tell you the new system is ready before the old subscription goes quiet.
+Kortix is open source, and the line it ships under is **the open-source CompanyOS**. This repository covers the move from Claude Cowork or ChatGPT Work: what comes across, what has to be rebuilt, and the checks that tell you the new system is ready before the old subscription goes quiet.
 
 Most migration plans budget for an export. They list the chats to download, the files to copy, the projects to recreate. That work takes an afternoon. The part that decides whether the switch succeeds is a rewrite. Every instruction you ever gave the assistant, and every permission you granted it, has to be written down again as files a repository can hold, review and refuse.
 
